@@ -18,6 +18,6 @@ Example
 
 def smash(words):
     a=''
-    for i in words:
+    for i in wo0rds:
         a=a+i+" "
     return a.strip()
