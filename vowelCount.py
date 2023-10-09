@@ -1,3 +1,7 @@
+
+
+
+
 def get_count(sentence):
     count=0
     vowels='aeiou'
@@ -7,3 +11,11 @@ def get_count(sentence):
                 count=count+1
     
     return count
+
+
+"""
+sentence='asdfas'
+
+output:2
+
+"""
